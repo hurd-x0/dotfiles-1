@@ -5,10 +5,10 @@ inoremap jk <esc>
 nnoremap gV `[v`]
 
 " force to stop using the arrow keys
-map <up>    <nop>
-map <down>  <nop>
-map <left>  <nop>
-map <right> <nop>
+" map <up>    <nop>
+" map <down>  <nop>
+" map <left>  <nop>
+" map <right> <nop>
 
 " Easy window navigation
 map <C-h> <C-w>h
